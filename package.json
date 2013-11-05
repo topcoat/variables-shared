@@ -1,0 +1,24 @@
+{
+  "name": "topcoat-variables-shared",
+  "version": "0.0.0",
+  "description": "Shared variables for Topcoat theme",
+  "main": "index.html",
+  "style": "src/variables-shared",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/topcoat/variables-shared.git"
+  },
+  "keywords": [
+    "variables",
+    "theme",
+    "topcoat"
+  ],
+  "author": "@dam Kristofer Joseph",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/topcoat/variables-shared/issues"
+  }
+}
