@@ -9,9 +9,9 @@
   var-background-color--cta--down: darken(var(background-color--cta), 6.5);
   var-background-color--cta--hover: lighten(var(background-color--cta), 8);
   var-box-shadow--cta: inset 0 1px rgba(var(color--cta), 0.36);
-  var-box-shadow--cta--down: inset 0 1px rgba(invert(var(color--cta)), 0.12);
+  var-box-shadow--cta--down: inset 0 1px rgba(var(shadow-color), 0.12);
   var-font-weight--cta: 500;
-  var-text-shadow--cta: 0 -1px rgba(invert(var(color--cta)), 0.36);
+  var-text-shadow--cta: 0 -1px rgba(var(shadow-color), 0.36);
   var-overflow: hidden;
   var-border--focus: 1px solid #0036FF;
   var-box-shadow--focus: 0 0 0 2px #6fb5f1;
