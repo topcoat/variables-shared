@@ -45,10 +45,10 @@
   var-transition--switch__toggle: margin-left 0.05s ease-in-out;
   var-margin-bottom--switch__toggle: -1px;
   var-margin-top--switch__toggle: -1px;
-  var-notification-padding: 0.15em 0.5em 0.2em;
-  var-notification-margin: 5px;
-  var-notification-border-radius: 2px;
-  var-notification-color: #fff;
+  var-padding--notification: 0.15em 0.5em 0.2em;
+  var-margin--notification: 5px;
+  var-border-radius--notification: 2px;
+  var-color--notification: #fff;
   var-search-icon: url("../img/search.svg");
 }
 
