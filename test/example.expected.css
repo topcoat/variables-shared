@@ -1,0 +1,32 @@
+:root {
+  font-weight-cta: 500;
+  overflow: hidden;
+  radio-offset: -109px;
+  radio-offset-checked: -74px;
+  radio-width: 37px;
+  radio-bgsize: 37px;
+  radio-height: 31px;
+  radio-line-height: 31px;
+  radio-margin: 15px;
+  overlay-bg-color: rgba(88, 90, 92, .7);
+  overlay-bg-box-shadow: inset 0px 0px 115px 0px #000;
+  font-size-textarea-large: 1.3rem;
+  line-height-large: 1.3rem;
+  margin: 0;
+  bar-border-radius: 12px;
+  bar-width: 250px;
+  bar-height: 1.25rem;
+  progress-border-radius: 12px 0 0 12px;
+  content-switch__label-left: 'ON';
+  content-switch__label-right: 'OFF';
+  margin-bottom-switch__toggle: -1px;
+  margin-top-switch__toggle: -1px;
+  transition-switch__toggle: margin-left .05s ease-in-out;
+  margin-bottom-switch__toggle: -1px;
+  margin-top-switch__toggle: -1px;
+  padding-notification: .15em .5em .2em;
+  margin-notification: 5px;
+  border-radius-notification: 2px;
+  color-notification: #fff;
+  search-icon: url("../img/search.svg");
+}

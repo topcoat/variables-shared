@@ -1,0 +1,32 @@
+:root {
+  font-weight-cta: var(--font-weight--cta);
+  overflow: var(--overflow);
+  radio-offset: var(--radio-offset);
+  radio-offset-checked: var(--radio-offset--checked);
+  radio-width: var(--radio-width);
+  radio-bgsize: var(--radio-bgsize);
+  radio-height: var(--radio-height);
+  radio-line-height: var(--radio-line-height);
+  radio-margin: var(--radio-margin);
+  overlay-bg-color: var(--overlay-bg-color);
+  overlay-bg-box-shadow: var(--overlay-bg-box-shadow);
+  font-size-textarea-large: var(--font-size--textarea--large);
+  line-height-large: var(--line-height--large);
+  margin: var(--margin);
+  bar-border-radius: var(--bar-border-radius);
+  bar-width: var(--bar-width);
+  bar-height: var(--bar-height);
+  progress-border-radius: var(--progress-border-radius);
+  content-switch__label-left: var(--content--switch__label--left);
+  content-switch__label-right: var(--content--switch__label--right);
+  margin-bottom-switch__toggle: var(--margin-bottom--switch__toggle);
+  margin-top-switch__toggle: var(--margin-top--switch__toggle);
+  transition-switch__toggle: var(--transition--switch__toggle);
+  margin-bottom-switch__toggle: var(--margin-bottom--switch__toggle);
+  margin-top-switch__toggle: var(--margin-top--switch__toggle);
+  padding-notification: var(--padding--notification);
+  margin-notification: var(--margin--notification);
+  border-radius-notification: var(--border-radius--notification);
+  color-notification: var(--color--notification);
+  search-icon: var(--search-icon);
+}

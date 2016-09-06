@@ -1,6 +1,7 @@
-Topcoat Variables Shared
-========================
+# Topcoat Variables Shared
 
-Shared variables for the Topcoat theme.
+[![Build Status](https://travis-ci.org/topcoat/variables-shared.svg?branch=master)](https://travis-ci.org/topcoat/variables-shared) [![npm version](https://badge.fury.io/js/topcoat-variables-shared.svg)](https://badge.fury.io/js/topcoat-variables-shared)
 
-[![NPM](https://nodei.co/npm/topcoat-variables-shared.png)](https://nodei.co/npm/topcoat-variables-shared/)
+---
+
+Shared variables for theme.
